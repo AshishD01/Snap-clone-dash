@@ -1,7 +1,9 @@
-![Screenshot (88)](https://user-images.githubusercontent.com/75004285/132360999-42190d4a-6ab0-4071-9325-a232ec261ea5.png)
-![Screenshot (91)](https://user-images.githubusercontent.com/75004285/132361007-d2fafb43-64d8-4c37-8875-6eb2aadbb93a.png)
-![Screenshot (92)](https://user-images.githubusercontent.com/75004285/132361014-7c2a81f1-f663-41d9-a1ac-e9cdca31a768.png)
-![Screenshot (90)](https://user-images.githubusercontent.com/75004285/132361018-64be38fd-89c6-4879-9255-949c508642e5.png)
-![Screenshot (89)](https://user-images.githubusercontent.com/75004285/132361019-2f88bbf2-9e40-4571-8fb4-e2fc13fd51d5.png)
 # Snap-clone-dash
 Link to the clone-Website https://snap-clone-dash.web.app
+
+![Screenshot (88)](https://user-images.githubusercontent.com/75004285/132361285-68394d46-d1a2-4bdf-b2cd-4b2d4f1c41eb.png)
+![Screenshot (89)](https://user-images.githubusercontent.com/75004285/132361302-dd1ba1af-2543-4e4b-a213-b82e5438c8cb.png)
+![Screenshot (90)](https://user-images.githubusercontent.com/75004285/132361323-6f4f2aec-fbab-4b0d-b857-a85fa8871869.png)
+![Screenshot (91)](https://user-images.githubusercontent.com/75004285/132361338-29c0e541-3a7c-4c40-ae05-8fc0500eda15.png)
+![Screenshot (92)](https://user-images.githubusercontent.com/75004285/132361346-2681d38c-64ef-4792-ac30-3b25e0a0820d.png)
+
